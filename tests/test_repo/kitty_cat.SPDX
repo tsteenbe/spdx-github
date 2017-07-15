@@ -1,0 +1,64 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+
+
+
+# Creation Info
+
+Creator: Tool: ScanCode 2.0.0rc2
+Created: 2017-07-04T22:34:26Z
+
+
+
+
+# Package
+
+PackageName: test_webhooks-master/
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 6bb1b5514b08db26619a430ff1104d1980005282
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: Apache-2.0
+PackageCopyrightText: NOASSERTION
+
+
+
+
+# File
+
+FileName: LICENSE.txt
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+
+
+
+# File
+
+FileName: configuration.yml
+FileChecksum: SHA1: 5f4ac48b200956d8f4812d16fdfb5706bf06bdb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+
+
+
+# File
+
+FileName: README.md
+FileChecksum: SHA1: e60a9c6a0e47cf76165a01b1ea523356ae9e27fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NOASSERTION
+
+
+
+
+# Extracted Licenses
+
